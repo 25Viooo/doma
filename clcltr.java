@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class clcltr{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-
+        
         System.out.print("Введите первое число: ");
         double number1 = scanner.nextDouble();
         System.out.print("Введите второе число: ");
